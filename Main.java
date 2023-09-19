@@ -147,7 +147,7 @@ public class Main {
         */
 
 
-        /*Programa 11   REVISAR
+        /*Programa 11
         char ch;
         System.out.print("Ingrese un Caracter: ");
         ch = (char) System.in.read();
@@ -293,7 +293,6 @@ public class Main {
             }
         }
         */
-
 
 
         /*Programa 17
